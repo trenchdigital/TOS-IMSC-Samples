@@ -2,7 +2,7 @@
 
 ![Repo Header Image](header.jpg)
 
-A colletcion of localised IMSC1 Timed Text files of the Blender Foundation's Open Movie Project Mango. Though it is known more commonly as '*Tears of Steel*'
+A collection of localised IMSC1 Timed Text files of the Blender Foundation's Open Movie Project Mango. Though it is known more commonly as '*Tears of Steel*'
 https://mango.blender.org/
 
 They are available in both **Text** and **Image** profiles for the following languages;
