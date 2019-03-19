@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--   *** Distributed as part of IMF for Beginners Course ***   -->
+<!--   *** Modifications Copyright (c) 2019, Trench Digital LTD. ***   -->
+<!--   *** contact@trenchdigital.net ***   -->
+<!--   *** Created by Jack Watts ***   -->
+<!--   *** 2019-March-06-18:52:51 ***   -->
+<!--   *** Aspect Ratio 1920x1080 ***   -->
+<!--   *** Frame Rate 24 ***-->
+<!--   *** urn:uuid:3d1508dc-8055-4147-a69b-e9ef392acfae ***-->
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:itts="http://www.w3.org/ns/ttml/profile/imsc1#styling" xmlns:ittp="http://www.w3.org/ns/ttml/profile/imsc1#parameter" xmlns:ittm="http://www.w3.org/ns/ttml/profile/imsc1#metadata" xml:lang="fr" tts:extent="1920px 1080px" ttp:profile="http://www.w3.org/ns/ttml/profile/imsc1.1/text" ttp:timeBase="media" ttp:frameRate="24" ittp:aspectRatio="16 9">
+  <head>
+    <metadata>
+      <ttm:title>Tears of Steel</ttm:title>
+      <ttm:desc>French Subtitles</ttm:desc>
+    </metadata>
+    <styling>
+      <style xml:id="basic" tts:color="white" tts:fontFamily="Arial" tts:fontSize="70%" tts:fontWeight="normal" tts:fontStyle="normal" tts:lineHeight="100%" tts:textAlign="center"/>
+    </styling>
+    <layout>
+      <region xml:id="top" tts:backgroundColor="transparent" tts:showBackground="whenActive" tts:origin="10% 20%" tts:extent="80% 40%" tts:displayAlign="before"/>
+      <region xml:id="bottom" tts:backgroundColor="transparent" tts:showBackground="whenActive" tts:origin="10% 40%" tts:extent="80% 40%" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body>
+    <div style="basic">
+      <p begin="00:00:01.000" end="00:00:03.000" region="bottom">-[RADIO] Roger. Roger</p>
+      <p begin="00:00:04.000" end="00:00:05.000" region="bottom">-[RADIO] Nous avons les moteurs principaux commencent ......</p>
+	  <p begin="00:00:06.000" end="00:00:09.525" region="bottom">...4, 3, 2, 1...</p>	
+      <p begin="00:00:23.000" end="00:00:24.500" region="bottom">-[Celia] T'es un salaud, Thom.</p>
+      <p begin="00:00:25.000" end="00:00:26.999" region="bottom">-[Thom] Celia, on doit poursuivre nos passions ;</p>
+      <p begin="00:00:27.000" end="00:00:30.500" region="bottom">Toi t'as la robotique, et moi<br/>je veux juste être super dans l'espace.</p>
+      <p begin="00:00:30.800" end="00:00:34.000" region="bottom">Pourquoi est-ce que t'admets pas<br/>que t'as peur de ma main robotique ?</p>
+      <p begin="00:00:34.500" end="00:00:36.000" region="bottom">J'ai pas peur, c'est...</p>
+      <p begin="00:00:37.000" end="00:00:38.000" region="bottom">d'accord ! Parfait !</p>
+      <p begin="00:00:38.001" end="00:00:40.999" region="bottom">J'ai peur ! J'ai des cauchemars<br/>où je suis poursuivi...</p>
+      <p begin="00:00:41.000" end="00:00:42.560" region="bottom">par des pinces robotiques géantes...</p>
+      <p begin="00:00:42.200" end="00:00:45.000" region="top">"QUARANTE ANS PLUS TARD"</p>	  
+      <p begin="00:00:43.000" end="00:00:45.000" region="bottom">-[Celia] Quoi qu'il en soit, Thom. C'est fini.</p>
+      <p begin="00:00:50.000" end="00:00:53.500" region="bottom">Mémoire Robot synchronisée et verrouillée.</p>
+      <p begin="00:01:01.000" end="00:01:03.000" region="bottom">C'est tout bizarre.</p>
+      <p begin="00:01:57.000" end="00:01:59.000" region="bottom">Tu ne devrais pas être en bas ?</p>
+      <p begin="00:02:11.000" end="00:02:13.000" region="bottom">Je vous ai entendus parler hier soir.</p>
+      <p begin="00:02:16.000" end="00:02:18.000" region="bottom">Ce n'est pas de ma faute, tu sais.</p>
+      <p begin="00:03:11.000" end="00:03:12.000" region="bottom">Est-ce que t'es prêt ?</p>
+      <p begin="00:03:13.000" end="00:03:15.000" region="bottom">Bien sûr que t'es prêt. T'es une rockstar.</p>
+      <p begin="00:03:17.000" end="00:03:18.000" region="bottom">Alors, Barley ?</p>
+      <p begin="00:03:19.000" end="00:03:21.000" region="bottom">On a une petite dizaine de minutes…</p>
+      <p begin="00:03:21.500" end="00:03:23.000" region="bottom">Et bien c'est parfait.</p>
+      <p begin="00:03:23.500" end="00:03:26.500" region="bottom">On est en ligne dans une minute !<br/>Tous en route ! Oui, toi, vas-y !</p>
+      <p begin="00:03:28.000" end="00:03:32.000" region="bottom">Allez-y ! Bougez vos culs !<br/>Allez allez allez !</p>
+      <p begin="00:03:33.000" end="00:03:37.000" region="bottom">J'adore ça ! Allez y, allez !</p>
+      <p begin="00:03:43.000" end="00:03:44.000" region="bottom">C'est bien.</p>
+      <p begin="00:03:44.500" end="00:03:45.700" region="bottom">Rien d'inquiétant.</p>
+      <p begin="00:03:46.000" end="00:03:47.000" region="bottom">Thom.</p>
+      <p begin="00:03:51.000" end="00:03:53.000" region="bottom">Elle est là.</p>
+      <p begin="00:03:53.500" end="00:03:54.500" region="bottom">Maintenant.</p>
+      <p begin="00:03:55.000" end="00:03:56.000" region="bottom">Tu l'aimes.</p>
+      <p begin="00:03:57.000" end="00:03:58.500" region="bottom">C'est ta passion.</p>
+      <p begin="00:04:00.000" end="00:04:01.000" region="bottom">Sois tendre avec elle.</p>
+      <p begin="00:04:01.500" end="00:04:04.500" region="bottom">Sois honnête ! Et -sois tendre.</p>
+      <p begin="00:04:05.000" end="00:04:08.000" region="bottom">Rappelle-lui ce que c'est l'amour.</p>
+      <p begin="00:04:52.000" end="00:04:55.000" region="bottom">…et, action !</p>
+      <p begin="00:04:56.500" end="00:04:58.000" region="bottom">Écrasement de mémoire en cours !</p>
+      <p begin="00:04:59.000" end="00:05:01.000" region="bottom">T'es un salaud, Thom.</p>
+      <p begin="00:05:02.500" end="00:05:05.000" region="bottom">Oh -Désolé ! Pardon.</p>
+      <p begin="00:05:16.000" end="00:05:17.000" region="bottom">Celia.</p>
+      <p begin="00:05:18.000" end="00:05:20.000" region="bottom">On doit suivre nos passions.</p>
+      <p begin="00:05:21.000" end="00:05:23.000" region="bottom">T'as la robotique,</p>
+      <p begin="00:05:25.000" end="00:05:28.000" region="bottom">et je veux juste être super dans l'espace.</p>
+      <p begin="00:05:39.000" end="00:05:41.000" region="bottom">D'accord, ils arrivent. Deux minutes !</p>
+      <p begin="00:05:43.000" end="00:05:44.000" region="bottom">Plus vite, Thom !</p>
+      <p begin="00:05:45.000" end="00:05:46.000" region="bottom">Vivacissimo !</p>
+      <p begin="00:05:47.000" end="00:05:50.000" region="bottom">Pourquoi est ce que t'admets pas<br/>que t'as peur de ma main robotique ?</p>
+      <p begin="00:05:56.000" end="00:05:59.000" region="bottom">Ecoute Celia, j'étais jeune...</p>
+      <p begin="00:05:59.500" end="00:06:00.999" region="bottom">et con.</p>
+      <p begin="00:06:01.000" end="00:06:03.120" region="bottom">Mais ce n'est pas une raison<br/>pour détruire la planète.</p>
+      <p begin="00:06:05.000" end="00:06:06.200" region="bottom">Pourquoi est-ce qu'il fait ça ?</p>
+      <p begin="00:06:06.500" end="00:06:08.500" region="bottom">On a déjà essayé celui-là !</p>
+      <p begin="00:06:11.500" end="00:06:12.500" region="bottom">Arrête !</p>
+      <p begin="00:06:13.000" end="00:06:14.000" region="bottom">Coupez !</p>
+      <p begin="00:06:14.000" end="00:06:15.000" region="bottom">Whoaaa !</p>
+      <p begin="00:06:19.000" end="00:06:20.000" region="bottom">Whoaaa !</p>
+      <p begin="00:06:21.000" end="00:06:22.999" region="bottom">Nooooonnn !</p>
+      <p begin="00:06:23.000" end="00:06:25.000" region="bottom">T'as brisé mon coeur.</p>
+      <p begin="00:06:26.000" end="00:06:27.000" region="bottom">Je sais.</p>
+      <p begin="00:06:27.001" end="00:06:28.999" region="bottom">Tu m'as oubliée sur terre.</p>
+      <p begin="00:06:29.000" end="00:06:30.000" region="bottom">Je sais.</p>
+      <p begin="00:06:30.500" end="00:06:33.000" region="bottom">Je devrais t'écraser.</p>
+      <p begin="00:06:36.000" end="00:06:37.000" region="bottom">Je-</p>
+      <p begin="00:06:47.000" end="00:06:48.000" region="bottom">Je suis désolé.</p>
+      <p begin="00:06:50.000" end="00:06:51.000" region="bottom">Bien dit.</p>
+      <p begin="00:06:59.000" end="00:07:00.500" region="bottom">Pas ma faute !</p>
+      <p begin="00:07:02.000" end="00:07:03.000" region="bottom">Cette fois-ci.</p>
+      <p begin="00:07:08.000" end="00:07:09.500" region="bottom">Silence sur le plateau !</p>
+      <p begin="00:07:10.000" end="00:07:11.000" region="bottom">On n'a plus le temps !</p>
+      <p begin="00:08:13.000" end="00:08:14.000" region="bottom">Allez !</p>
+      <p begin="00:08:22.000" end="00:08:23.999" region="bottom">RAAAAAAAAH !</p>
+      <p begin="00:08:24.000" end="00:08:25.080" region="bottom">Écrasement de mémoire, 90%.</p>
+      <p begin="00:08:26.000" end="00:08:28.000" region="bottom">Capitaine ! On doit arrêter !</p>
+      <p begin="00:08:38.000" end="00:08:40.000" region="bottom">Le monde a changé, Celia...</p>
+      <p begin="00:08:54.000" end="00:08:56.000" region="bottom">peut-être qu'on peut changer aussi.</p>
+      <p begin="00:08:58.000" end="00:08:59.240" region="bottom">Écrasement de mémoire terminé !</p>
+      <p begin="00:09:19.000" end="00:09:20.000" region="bottom">Tu sais.</p>
+      <p begin="00:09:22.000" end="00:09:24.000" region="bottom">On peut apprendre une leçon de tout ça.</p>
+      <p begin="00:09:26.000" end="00:09:27.000" region="bottom">Ça aurait pu être pire.</p>
+    </div>
+  </body>
+</tt>

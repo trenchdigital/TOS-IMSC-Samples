@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--   *** Distributed as part of IMF for Beginners Course ***   -->
+<!--   *** Modifications Copyright (c) 2019, Trench Digital LTD. ***   -->
+<!--   *** contact@trenchdigital.net ***   -->
+<!--   *** Created by Jack Watts ***   -->
+<!--   *** 2019-March-09-13:16:26 ***   -->
+<!--   *** Aspect Ratio 1920x1080 ***   -->
+<!--   *** Frame Rate 24 ***-->
+<!--   *** urn:uuid:07d9cd87-2bf1-43d9-b23b-3fecbc0622f3 ***-->
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:itts="http://www.w3.org/ns/ttml/profile/imsc1#styling" xmlns:ittp="http://www.w3.org/ns/ttml/profile/imsc1#parameter" xmlns:ittm="http://www.w3.org/ns/ttml/profile/imsc1#metadata" xml:lang="fr" tts:extent="1920px 1080px" ttp:profile="http://www.w3.org/ns/ttml/profile/imsc1.1/image" xmlns:smpte="http://www.smpte-ra.org/schemas/2052-1/2013/smpte-tt" ttp:timeBase="media" ttp:frameRate="24" ittp:aspectRatio="16 9">
+  <head>
+    <metadata>
+      <ttm:title>Tears of Steel</ttm:title>
+      <ttm:desc>French Subtitles</ttm:desc>
+    </metadata>
+    <layout>
+            <region xml:id="region" tts:origin="0px 0px" tts:extent="1920px 1080px" tts:showBackground="whenActive" />
+    </layout>
+  </head>
+    <body>
+        <div begin="00:00:01:00" end="00:00:03:00" tts:origin="670px 913px" tts:extent="583px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0001.png" />
+        <div begin="00:00:04:00" end="00:00:05:00" tts:origin="182px 913px" tts:extent="1554px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0002.png" />
+        <div begin="00:00:06:00" end="00:00:09:13" tts:origin="804px 914px" tts:extent="312px 60px" smpte:backgroundImage="Tears_of_Steel_FR_0003.png" />
+        <div begin="00:00:23:00" end="00:00:24:12" tts:origin="587px 913px" tts:extent="744px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0004.png" />
+        <div begin="00:00:25:00" end="00:00:26:23" tts:origin="367px 913px" tts:extent="1184px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0005.png" />
+        <div begin="00:00:27:00" end="00:00:30:12" tts:origin="479px 854px" tts:extent="955px 123px" smpte:backgroundImage="Tears_of_Steel_FR_0006.png" />
+        <div begin="00:00:30:19" end="00:00:34:00" tts:origin="496px 854px" tts:extent="927px 123px" smpte:backgroundImage="Tears_of_Steel_FR_0007.png" />
+        <div begin="00:00:34:12" end="00:00:36:00" tts:origin="706px 914px" tts:extent="506px 63px" smpte:backgroundImage="Tears_of_Steel_FR_0008.png" />
+        <div begin="00:00:37:00" end="00:00:38:00" tts:origin="733px 914px" tts:extent="452px 52px" smpte:backgroundImage="Tears_of_Steel_FR_0009.png" />
+        <div begin="00:00:38:00" end="00:00:40:23" tts:origin="576px 854px" tts:extent="768px 123px" smpte:backgroundImage="Tears_of_Steel_FR_0010.png" />
+        <div begin="00:00:41:00" end="00:00:42:13" tts:origin="509px 913px" tts:extent="901px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0011.png" />
+        <div begin="00:00:42:05" end="00:00:45:00" tts:origin="509px 913px" tts:extent="901px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0012.png" />
+        <div begin="00:00:43:00" end="00:00:45:00" tts:origin="440px 913px" tts:extent="1037px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0013.png" />
+        <div begin="00:00:50:00" end="00:00:53:12" tts:origin="422px 913px" tts:extent="1076px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0014.png" />
+        <div begin="00:01:01:00" end="00:01:03:00" tts:origin="740px 913px" tts:extent="439px 54px" smpte:backgroundImage="Tears_of_Steel_FR_0015.png" />
+        <div begin="00:01:57:00" end="00:01:59:00" tts:origin="565px 913px" tts:extent="788px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0016.png" />
+        <div begin="00:02:11:00" end="00:02:13:00" tts:origin="517px 914px" tts:extent="884px 63px" smpte:backgroundImage="Tears_of_Steel_FR_0017.png" />
+        <div begin="00:02:16:00" end="00:02:18:00" tts:origin="545px 913px" tts:extent="829px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0018.png" />
+        <div begin="00:03:11:00" end="00:03:12:00" tts:origin="697px 913px" tts:extent="528px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0019.png" />
+        <div begin="00:03:13:00" end="00:03:15:00" tts:origin="462px 913px" tts:extent="995px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0020.png" />
+        <div begin="00:03:17:00" end="00:03:18:00" tts:origin="773px 914px" tts:extent="371px 63px" smpte:backgroundImage="Tears_of_Steel_FR_0021.png" />
+        <div begin="00:03:19:00" end="00:03:21:00" tts:origin="499px 913px" tts:extent="918px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0022.png" />
+        <div begin="00:03:21:12" end="00:03:23:00" tts:origin="715px 914px" tts:extent="490px 63px" smpte:backgroundImage="Tears_of_Steel_FR_0023.png" />
+        <div begin="00:03:23:12" end="00:03:26:12" tts:origin="541px 853px" tts:extent="837px 124px" smpte:backgroundImage="Tears_of_Steel_FR_0024.png" />
+        <div begin="00:03:28:00" end="00:03:32:00" tts:origin="629px 854px" tts:extent="657px 112px" smpte:backgroundImage="Tears_of_Steel_FR_0025.png" />
+        <div begin="00:03:33:00" end="00:03:37:00" tts:origin="639px 914px" tts:extent="640px 63px" smpte:backgroundImage="Tears_of_Steel_FR_0026.png" />
+        <div begin="00:03:43:00" end="00:03:44:00" tts:origin="826px 913px" tts:extent="266px 54px" smpte:backgroundImage="Tears_of_Steel_FR_0027.png" />
+        <div begin="00:03:44:12" end="00:03:45:17" tts:origin="744px 913px" tts:extent="432px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0028.png" />
+        <div begin="00:03:46:00" end="00:03:47:00" tts:origin="877px 914px" tts:extent="164px 52px" smpte:backgroundImage="Tears_of_Steel_FR_0029.png" />
+        <div begin="00:03:51:00" end="00:03:53:00" tts:origin="830px 913px" tts:extent="260px 53px" smpte:backgroundImage="Tears_of_Steel_FR_0030.png" />
+        <div begin="00:03:53:12" end="00:03:54:12" tts:origin="813px 914px" tts:extent="294px 52px" smpte:backgroundImage="Tears_of_Steel_FR_0031.png" />
+        <div begin="00:03:55:00" end="00:03:56:00" tts:origin="823px 914px" tts:extent="271px 52px" smpte:backgroundImage="Tears_of_Steel_FR_0032.png" />
+        <div begin="00:03:57:00" end="00:03:58:12" tts:origin="752px 913px" tts:extent="414px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0033.png" />
+        <div begin="00:04:00:00" end="00:04:01:00" tts:origin="691px 913px" tts:extent="537px 54px" smpte:backgroundImage="Tears_of_Steel_FR_0034.png" />
+        <div begin="00:04:01:12" end="00:04:04:12" tts:origin="584px 913px" tts:extent="750px 54px" smpte:backgroundImage="Tears_of_Steel_FR_0035.png" />
+        <div begin="00:04:05:00" end="00:04:08:00" tts:origin="552px 914px" tts:extent="816px 63px" smpte:backgroundImage="Tears_of_Steel_FR_0036.png" />
+        <div begin="00:04:52:00" end="00:04:55:00" tts:origin="804px 914px" tts:extent="314px 60px" smpte:backgroundImage="Tears_of_Steel_FR_0037.png" />
+        <div begin="00:04:56:12" end="00:04:58:00" tts:origin="526px 904px" tts:extent="869px 62px" smpte:backgroundImage="Tears_of_Steel_FR_0038.png" />
+        <div begin="00:04:59:00" end="00:05:01:00" tts:origin="682px 914px" tts:extent="554px 60px" smpte:backgroundImage="Tears_of_Steel_FR_0039.png" />
+        <div begin="00:05:02:12" end="00:05:05:00" tts:origin="696px 913px" tts:extent="527px 54px" smpte:backgroundImage="Tears_of_Steel_FR_0040.png" />
+        <div begin="00:05:16:00" end="00:05:17:00" tts:origin="886px 913px" tts:extent="147px 54px" smpte:backgroundImage="Tears_of_Steel_FR_0041.png" />
+        <div begin="00:05:18:00" end="00:05:20:00" tts:origin="608px 913px" tts:extent="703px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0042.png" />
+        <div begin="00:05:21:00" end="00:05:23:00" tts:origin="743px 914px" tts:extent="431px 63px" smpte:backgroundImage="Tears_of_Steel_FR_0043.png" />
+        <div begin="00:05:25:00" end="00:05:28:00" tts:origin="453px 913px" tts:extent="1012px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0044.png" />
+        <div begin="00:05:39:00" end="00:05:41:00" tts:origin="506px 914px" tts:extent="908px 60px" smpte:backgroundImage="Tears_of_Steel_FR_0045.png" />
+        <div begin="00:05:43:00" end="00:05:44:00" tts:origin="752px 914px" tts:extent="416px 60px" smpte:backgroundImage="Tears_of_Steel_FR_0046.png" />
+        <div begin="00:05:45:00" end="00:05:46:00" tts:origin="793px 914px" tts:extent="331px 52px" smpte:backgroundImage="Tears_of_Steel_FR_0047.png" />
+        <div begin="00:05:47:00" end="00:05:50:00" tts:origin="496px 854px" tts:extent="927px 123px" smpte:backgroundImage="Tears_of_Steel_FR_0048.png" />
+        <div begin="00:05:56:00" end="00:05:59:00" tts:origin="616px 913px" tts:extent="688px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0049.png" />
+        <div begin="00:05:59:12" end="00:06:00:23" tts:origin="872px 914px" tts:extent="173px 52px" smpte:backgroundImage="Tears_of_Steel_FR_0050.png" />
+        <div begin="00:06:01:00" end="00:06:03:03" tts:origin="606px 854px" tts:extent="708px 123px" smpte:backgroundImage="Tears_of_Steel_FR_0051.png" />
+        <div begin="00:06:05:00" end="00:06:06:05" tts:origin="602px 914px" tts:extent="717px 63px" smpte:backgroundImage="Tears_of_Steel_FR_0052.png" />
+        <div begin="00:06:06:12" end="00:06:08:12" tts:origin="629px 913px" tts:extent="661px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0053.png" />
+        <div begin="00:06:11:12" end="00:06:12:12" tts:origin="863px 913px" tts:extent="190px 53px" smpte:backgroundImage="Tears_of_Steel_FR_0054.png" />
+        <div begin="00:06:13:00" end="00:06:14:00" tts:origin="846px 913px" tts:extent="227px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0055.png" />
+        <div begin="00:06:14:00" end="00:06:15:00" tts:origin="836px 914px" tts:extent="245px 52px" smpte:backgroundImage="Tears_of_Steel_FR_0056.png" />
+        <div begin="00:06:19:00" end="00:06:20:00" tts:origin="836px 914px" tts:extent="245px 52px" smpte:backgroundImage="Tears_of_Steel_FR_0057.png" />
+        <div begin="00:06:21:00" end="00:06:22:23" tts:origin="799px 914px" tts:extent="322px 52px" smpte:backgroundImage="Tears_of_Steel_FR_0058.png" />
+        <div begin="00:06:23:00" end="00:06:25:00" tts:origin="690px 913px" tts:extent="536px 53px" smpte:backgroundImage="Tears_of_Steel_FR_0059.png" />
+        <div begin="00:06:26:00" end="00:06:27:00" tts:origin="862px 914px" tts:extent="194px 53px" smpte:backgroundImage="Tears_of_Steel_FR_0060.png" />
+        <div begin="00:06:27:00" end="00:06:28:23" tts:origin="642px 913px" tts:extent="633px 53px" smpte:backgroundImage="Tears_of_Steel_FR_0061.png" />
+        <div begin="00:06:29:00" end="00:06:30:00" tts:origin="862px 914px" tts:extent="194px 53px" smpte:backgroundImage="Tears_of_Steel_FR_0062.png" />
+        <div begin="00:06:30:12" end="00:06:33:00" tts:origin="709px 913px" tts:extent="499px 54px" smpte:backgroundImage="Tears_of_Steel_FR_0063.png" />
+        <div begin="00:06:36:00" end="00:06:37:00" tts:origin="917px 914px" tts:extent="86px 53px" smpte:backgroundImage="Tears_of_Steel_FR_0064.png" />
+        <div begin="00:06:47:00" end="00:06:48:00" tts:origin="772px 913px" tts:extent="373px 54px" smpte:backgroundImage="Tears_of_Steel_FR_0065.png" />
+        <div begin="00:06:50:00" end="00:06:51:00" tts:origin="857px 914px" tts:extent="205px 52px" smpte:backgroundImage="Tears_of_Steel_FR_0066.png" />
+        <div begin="00:06:59:00" end="00:07:00:12" tts:origin="779px 914px" tts:extent="362px 52px" smpte:backgroundImage="Tears_of_Steel_FR_0067.png" />
+        <div begin="00:07:02:00" end="00:07:03:00" tts:origin="802px 913px" tts:extent="314px 54px" smpte:backgroundImage="Tears_of_Steel_FR_0068.png" />
+        <div begin="00:07:08:00" end="00:07:09:12" tts:origin="675px 913px" tts:extent="568px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0069.png" />
+        <div begin="00:07:10:00" end="00:07:11:00" tts:origin="689px 913px" tts:extent="541px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0070.png" />
+        <div begin="00:08:13:00" end="00:08:14:00" tts:origin="878px 914px" tts:extent="160px 52px" smpte:backgroundImage="Tears_of_Steel_FR_0071.png" />
+        <div begin="00:08:22:00" end="00:08:23:23" tts:origin="754px 914px" tts:extent="412px 52px" smpte:backgroundImage="Tears_of_Steel_FR_0072.png" />
+        <div begin="00:08:24:00" end="00:08:25:02" tts:origin="577px 904px" tts:extent="767px 70px" smpte:backgroundImage="Tears_of_Steel_FR_0073.png" />
+        <div begin="00:08:26:00" end="00:08:28:00" tts:origin="622px 913px" tts:extent="676px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0074.png" />
+        <div begin="00:08:38:00" end="00:08:40:00" tts:origin="610px 913px" tts:extent="700px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0075.png" />
+        <div begin="00:08:54:00" end="00:08:56:00" tts:origin="521px 913px" tts:extent="877px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0076.png" />
+        <div begin="00:08:58:00" end="00:08:59:06" tts:origin="540px 904px" tts:extent="841px 62px" smpte:backgroundImage="Tears_of_Steel_FR_0077.png" />
+        <div begin="00:09:19:00" end="00:09:20:00" tts:origin="859px 914px" tts:extent="199px 52px" smpte:backgroundImage="Tears_of_Steel_FR_0078.png" />
+        <div begin="00:09:22:00" end="00:09:24:00" tts:origin="458px 913px" tts:extent="1003px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0079.png" />
+        <div begin="00:09:26:00" end="00:09:27:00" tts:origin="688px 913px" tts:extent="542px 64px" smpte:backgroundImage="Tears_of_Steel_FR_0080.png" />
+    </body>
+</tt>

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--   *** Distributed as part of IMF for Beginners Course ***   -->
+<!--   *** Modifications Copyright (c) 2019, Trench Digital LTD. ***   -->
+<!--   *** contact@trenchdigital.net ***   -->
+<!--   *** Created by Jack Watts ***   -->
+<!--   *** 2019-March-06-18:43:36 ***   -->
+<!--   *** Aspect Ratio 1920x1080 ***   -->
+<!--   *** Frame Rate 24 ***-->
+<!--   *** urn:uuid:c23ebde6-4894-4ac0-8801-53bea8e249ab***-->
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:itts="http://www.w3.org/ns/ttml/profile/imsc1#styling" xmlns:ittp="http://www.w3.org/ns/ttml/profile/imsc1#parameter" xmlns:ittm="http://www.w3.org/ns/ttml/profile/imsc1#metadata" xml:lang="jp" tts:extent="1920px 1080px" ttp:profile="http://www.w3.org/ns/ttml/profile/imsc1.1/text" ttp:timeBase="media" ttp:frameRate="24" ittp:aspectRatio="16 9">
+  <head>
+    <metadata>
+      <ttm:title>Tears of Steel</ttm:title>
+      <ttm:desc>Japanese Subtitles</ttm:desc>
+    </metadata>
+    <styling>
+      <style xml:id="basic" tts:color="white" tts:fontFamily="Arial" tts:fontSize="70%" tts:fontWeight="normal" tts:fontStyle="normal" tts:lineHeight="100%" tts:textAlign="center"/>
+    </styling>
+    <layout>
+      <region xml:id="top" tts:backgroundColor="transparent" tts:showBackground="whenActive" tts:origin="10% 20%" tts:extent="80% 40%" tts:displayAlign="before"/>
+      <region xml:id="bottom" tts:backgroundColor="transparent" tts:showBackground="whenActive" tts:origin="10% 40%" tts:extent="80% 40%" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body>
+    <div style="basic">
+      <p begin="00:00:01.000" end="00:00:03.000" region="bottom">-[無線] ロジャー ロジャー</p>
+      <p begin="00:00:04.000" end="00:00:05.000" region="bottom">-[無線] 主エンジンが始動しています......</p>
+	  <p begin="00:00:06.000" end="00:00:09.525" region="bottom">...4, 3, 2, 1...</p>	
+      <p begin="00:00:23.000" end="00:00:24.500" region="bottom">-[Celia] あなたは馬鹿よ、トム</p>
+      <p begin="00:00:25.000" end="00:00:26.999" region="bottom">-[Thom] セリア、僕たちは夢を追いかけないと</p>
+      <p begin="00:00:27.000" end="00:00:30.500" region="bottom">君はロボット工学があるし、 僕も宇宙に行きたいだけなんだ</p>
+      <p begin="00:00:30.800" end="00:00:34.000" region="bottom">なぜ私のロボットハンドが 怖くなったっていわないの？</p>
+      <p begin="00:00:34.500" end="00:00:36.000" region="bottom">僕は怖くなんか...</p>
+      <p begin="00:00:37.000" end="00:00:38.000" region="bottom">ああそうとも！</p>
+      <p begin="00:00:38.001" end="00:00:40.999" region="bottom">怖いさ！　夢の中で 追いかけられて...</p>
+      <p begin="00:00:41.000" end="00:00:42.000" region="bottom">巨大なロボットの爪に...</p>
+      <p begin="00:00:42.200" end="00:00:45.000" region="top">"40年後"</p>	       
+	  <p begin="00:00:43.000" end="00:00:45.000" region="bottom">-[Celia] とにかくトム、もう終わりね</p>
+      <p begin="00:00:50.000" end="00:00:53.500" region="bottom">ロボットのメモリとの同期・ロック完了！</p>
+      <p begin="00:01:01.000" end="00:01:03.000" region="bottom">本当に怖いな</p>
+      <p begin="00:01:57.000" end="00:01:59.000" region="bottom">降りなくていいんですか？</p>
+      <p begin="00:02:11.000" end="00:02:13.000" region="bottom">昨日話してたのを聞いた</p>
+      <p begin="00:02:16.000" end="00:02:18.000" region="bottom">俺の所為じゃない、わかってくれ</p>
+      <p begin="00:03:11.000" end="00:03:12.000" region="bottom">準備はいいか？</p>
+      <p begin="00:03:13.000" end="00:03:15.000" region="bottom">当然だな、君はロックスターだ</p>
+      <p begin="00:03:17.000" end="00:03:18.000" region="bottom">バーレイ、そっちはどうだ？</p>
+      <p begin="00:03:19.000" end="00:03:21.000" region="bottom">10分ぐらいしかないですね...</p>
+      <p begin="00:03:21.500" end="00:03:23.000" region="bottom">ばっちりだ</p>
+      <p begin="00:03:23.500" end="00:03:26.500" region="bottom">みんな行くぞ！　全システム起動！ よし行け！</p>
+      <p begin="00:03:28.000" end="00:03:32.000" region="bottom">急げ！　早くしろ！</p>
+      <p begin="00:03:33.000" end="00:03:37.000" region="bottom">よしいいぞ！　頑張れ！</p>
+      <p begin="00:03:43.000" end="00:03:44.000" region="bottom">素晴らしい</p>
+      <p begin="00:03:44.500" end="00:03:45.700" region="bottom">心配するな</p>
+      <p begin="00:03:46.000" end="00:03:47.000" region="bottom">トム、</p>
+      <p begin="00:03:51.000" end="00:03:53.000" region="bottom">あそこに彼女がいる</p>
+      <p begin="00:03:53.500" end="00:03:54.500" region="bottom">今</p>
+      <p begin="00:03:55.000" end="00:03:56.000" region="bottom">君は彼女が大好きだ</p>
+      <p begin="00:03:57.000" end="00:03:58.500" region="bottom">彼女は君の夢だ！</p>
+      <p begin="00:04:00.000" end="00:04:01.000" region="bottom">やさしくしてやれ</p>
+      <p begin="00:04:01.500" end="00:04:04.500" region="bottom">誠実に！...やさしくな</p>
+      <p begin="00:04:05.000" end="00:04:08.000" region="bottom">愛を思い出させるんだ</p>
+      <p begin="00:04:52.000" end="00:04:55.000" region="bottom">よし、アクション！</p>
+      <p begin="00:04:56.500" end="00:04:58.000" region="bottom">メモリ上書き進行中！</p>
+      <p begin="00:04:59.000" end="00:05:01.000" region="bottom">あなたは馬鹿よ、トム！</p>
+      <p begin="00:05:02.500" end="00:05:05.000" region="bottom">おっと、すまんすまん！</p>
+      <p begin="00:05:16.000" end="00:05:17.000" region="bottom">セリア、</p>
+      <p begin="00:05:18.000" end="00:05:20.000" region="bottom">僕たちは夢を追いかけないと</p>
+      <p begin="00:05:21.000" end="00:05:23.000" region="bottom">君はロボット工学があるし...</p>
+      <p begin="00:05:25.000" end="00:05:28.000" region="bottom">僕も宇宙に行きたいだけなんだ</p>
+      <p begin="00:05:39.000" end="00:05:41.000" region="bottom">やつらが来ました。あと2分！</p>
+      <p begin="00:05:43.000" end="00:05:44.000" region="bottom">トム、急いでくれ！</p>
+      <p begin="00:05:45.000" end="00:05:46.000" region="bottom">ヴィヴァチッシモ！</p>
+      <p begin="00:05:47.000" end="00:05:50.000" region="bottom">なぜ私のロボットハンドが 怖くなったっていわないの？</p>
+      <p begin="00:05:56.000" end="00:05:59.000" region="bottom">聞いてくれセリア、僕は若かった...</p>
+      <p begin="00:05:59.500" end="00:06:00.999" region="bottom">そして馬鹿だった</p>
+      <p begin="00:06:01.000" end="00:06:03.000" region="bottom">でもそれは世界を滅ぼす 理由にはならないよ</p>
+      <p begin="00:06:05.000" end="00:06:06.000" region="bottom">なぜ彼はあんなことを？</p>
+      <p begin="00:06:06.500" end="00:06:08.500" region="bottom">すでに試したんだよ！</p>
+      <p begin="00:06:11.500" end="00:06:12.500" region="bottom">中止！</p>
+      <p begin="00:06:13.000" end="00:06:14.000" region="bottom">カット！</p>
+      <p begin="00:06:14.000" end="00:06:15.000" region="bottom">うわぁー！</p>
+      <p begin="00:06:19.000" end="00:06:20.000" region="bottom">うわ！</p>
+      <p begin="00:06:21.000" end="00:06:22.999" region="bottom">だめだぁー！</p>
+      <p begin="00:06:23.000" end="00:06:25.000" region="bottom">あなたは私を傷つけた</p>
+      <p begin="00:06:26.000" end="00:06:27.000" region="bottom">わかってる</p>
+      <p begin="00:06:27.001" end="00:06:28.999" region="bottom">地球にいる私を忘れた</p>
+      <p begin="00:06:29.000" end="00:06:30.000" region="bottom">わかってる</p>
+      <p begin="00:06:30.500" end="00:06:33.000" region="bottom">あなたを殺すかもしれない</p>
+      <p begin="00:06:36.000" end="00:06:37.000" region="bottom">本当は―</p>
+      <p begin="00:06:47.000" end="00:06:48.000" region="bottom">本当にすまなかった</p>
+      <p begin="00:06:50.000" end="00:06:51.000" region="bottom">いいアドリブだ</p>
+      <p begin="00:06:59.000" end="00:07:00.500" region="bottom">俺の所為じゃない！</p>
+      <p begin="00:07:02.000" end="00:07:03.000" region="bottom">今回は</p>
+      <p begin="00:07:08.000" end="00:07:09.500" region="bottom">本番行くぞ！</p>
+      <p begin="00:07:10.000" end="00:07:11.000" region="bottom">時間切れです！</p>
+      <p begin="00:08:13.000" end="00:08:14.000" region="bottom">来いよ！</p>
+      <p begin="00:08:22.000" end="00:08:23.999" region="bottom">おらあああああ！</p>
+      <p begin="00:08:24.000" end="00:08:25.000" region="bottom">メモリ上書き90％</p>
+      <p begin="00:08:26.000" end="00:08:28.000" region="bottom">キャプテン！　中止命令を！</p>
+      <p begin="00:08:38.000" end="00:08:40.000" region="bottom">世界は変わったんだよ、セリア...</p>
+      <p begin="00:08:54.000" end="00:08:56.000" region="bottom">多分僕たちも</p>
+      <p begin="00:08:58.000" end="00:08:59.000" region="bottom">メモリ上書き完了！</p>
+      <p begin="00:09:19.000" end="00:09:20.000" region="bottom">なあ、</p>
+      <p begin="00:09:22.000" end="00:09:24.000" region="bottom">ここから学ぶべき教訓がある</p>
+      <p begin="00:09:26.000" end="00:09:27.000" region="bottom">この程度でよかったです</p>
+    </div>
+  </body>
+</tt>
