@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # TOS IMSC1 Sample Files
 
 ![Repo Header Image](header.jpg)
@@ -44,6 +42,4 @@ ALL DOCUMENTS, INFORMATION AND CONTENT DISTRIBUTED HEREIN IS PROVIDED AS IS AND 
 USE AT YOUR OWN RISK.
 
 [Github](https://github.com/trenchdigital) | [Website](https://trenchdigital.net) | [Contact](https://trenchdigital.net#contact)
-=======
-# TOS-IMSC-Samples
->>>>>>> 1c73f82a8d162e98a77f55608d4dd6f291966de0
+
