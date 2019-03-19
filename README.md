@@ -29,7 +29,7 @@ UUID:	7d020735-2d4b-447a-a02e-2460f9fe0d71
 Download:
 
 ```sh
-http://training.trenchdigital.net/resources
+[http://training.trenchdigital.net/resources](http://training.trenchdigital.net/resources)
 ```
 
 ## Meta
